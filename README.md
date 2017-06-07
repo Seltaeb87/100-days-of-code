@@ -8,5 +8,6 @@ Currently working on my own portfolio website. You can check it out here: [Portf
 Started with some simple HTML and CSS setup for my portfolio page. Forgot to put it on GitHub, so I did it today(7th of june)
 
 ## Day 2: June 07
-Pushed my first steps of my portfolio website on GitHub. 
-[Portfolio](https://github.com/Seltaeb87/portfolio)
+Pushed my first steps of my portfolio website on GitHub.
+Added some mock-up pages in html. Created a basic contact form on the contact page. Check it out:
+[Portfolio](https://github.com/Seltaeb87/portfolio).
