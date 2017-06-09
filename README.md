@@ -19,3 +19,9 @@ So, I changed all my files from .html to .php. This way I can include several fi
 I'm building a header and can include that on every page. 
 When I change something in header.php, it changes on each page.
 See my [portfolio](https://github.com/Seltaeb87/portfolio).
+
+## Day 4: June 09
+Today I spent about an hour to style my menu a bit. Went pretty well if I say so myself!
+Only thing I can't figure out is the jQuery part of it. When I go to a page, the menu of that page needs
+to be highlighted. It works on "Home" when I go to another page, the higlighted menu item jumps back to "Home".
+Check out: [portfolio](https://github.com/Seltaeb87/portfolio).
