@@ -23,5 +23,6 @@ See my [portfolio](https://github.com/Seltaeb87/portfolio).
 ## Day 4: June 09
 Today I spent about an hour to style my menu a bit. Went pretty well if I say so myself!
 Only thing I can't figure out is the jQuery part of it. When I go to a page, the menu of that page needs
-to be highlighted. It works on "Home" when I go to another page, the higlighted menu item jumps back to "Home".
+to be highlighted. It works on "Home", but when I go to another page, the higlighted menu item jumps back to "Home".
 Check out: [portfolio](https://github.com/Seltaeb87/portfolio).
+`P.S: Does this make any sense? Haha`
