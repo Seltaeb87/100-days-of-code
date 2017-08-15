@@ -37,3 +37,8 @@ I will upload the first files in a bit.
 Here we go: [StarLog](https://github.com/Seltaeb87/Starlog).
 
 Also, trying to figure out Docker on Windows 10. Pain.in.the.ass.
+
+## Day 6: August 15, 2017
+Started with the registration form for StarLog, so users can sign up. Simple, basic HTML form 
+where I validate if all fields are filled in. Next step is to write the data from the form to the database.
+[StarLog](https://github.com/Seltaeb87/Starlog).
